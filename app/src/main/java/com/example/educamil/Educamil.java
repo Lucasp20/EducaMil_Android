@@ -54,7 +54,7 @@ public class Educamil extends AppCompatActivity {
         startActivity(new Intent(Educamil.this, Aluno.class));
     }
     private void turmasActivity(){
-        startActivity(new Intent(Educamil.this, Turma.class));
+        startActivity(new Intent(Educamil.this, Disciplina.class));
     }
 
 }

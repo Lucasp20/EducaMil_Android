@@ -10,27 +10,27 @@
         android:id="@+id/textViewDescricao"
         android:layout_width="177dp"
         android:layout_height="20dp"
-        android:layout_marginStart="44dp"
-        android:layout_marginTop="92dp"
         android:text="TextView"
         android:textAlignment="viewStart"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.435"
         app:layout_constraintStart_toEndOf="@+id/imageViewProfessor"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.841" />
 
     <TextView
         android:id="@+id/textViewNome"
-        android:layout_width="133dp"
-        android:layout_height="19dp"
+        android:layout_width="180dp"
+        android:layout_height="23dp"
         android:text="TextViewNome"
         android:textAlignment="viewStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintHorizontal_bias="0.444"
         app:layout_constraintStart_toEndOf="@+id/imageViewProfessor"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.254" />
+        app:layout_constraintVertical_bias="0.163" />
 
     <TextView
         android:id="@+id/textViewIdade"
@@ -39,16 +39,16 @@
         android:text="TextView"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.36"
+        app:layout_constraintHorizontal_bias="0.216"
         app:layout_constraintStart_toEndOf="@+id/imageViewProfessor"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.584" />
+        app:layout_constraintVertical_bias="0.495" />
 
     <ImageView
         android:id="@+id/imageViewProfessor"
         android:layout_width="101dp"
         android:layout_height="105dp"
-        android:layout_marginStart="16dp"
+        android:layout_marginStart="4dp"
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"

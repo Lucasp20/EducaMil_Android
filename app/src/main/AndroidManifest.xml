@@ -30,7 +30,7 @@
             android:label="Aluno">
         </activity>
 
-        <activity android:name=".Turma">
+        <activity android:name=".Disciplina">
             android:label="@string/title_activity_turma"
         </activity>
 

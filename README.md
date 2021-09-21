@@ -2,4 +2,4 @@
 
 
 ![menu](https://github.com/Lucasp20/EducaMil_Android/blob/master/menu.PNG)
-![aluno](https://github.com/Lucasp20/EducaMil_Android/blob/master/aluno.PNG)
+![professor](https://github.com/Lucasp20/EducaMil_Android/blob/master/professor.PNG)

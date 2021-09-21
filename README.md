@@ -1,0 +1,1 @@
+# **EducaMil - Gerenciamento Escolar Mobile**
